@@ -1,0 +1,10 @@
+VehicleD,Driver Side Window,Down
+VehicleU,Front Wipers,On
+VehicleX,Fuel Level,70%
+VehicleA,Front Passenger Door,Closed
+VehicleT,Driving Event,Right Turn
+VehicleC,Handbrake,On
+VehicleM,Boot,Open
+VehicleP,Driving Event,Left Turn
+VehicleM,Boot,Closed
+VehicleG,Radio Volume,20%
