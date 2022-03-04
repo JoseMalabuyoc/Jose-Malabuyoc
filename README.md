@@ -7,7 +7,7 @@
 
 You've been given a dataset in quoted CSV format with a series of connected vehicle data points. 
 
-You've been given some existing code in which you'll produce a clean output of dataset.
+You've been given some existing code in which you'll produce a clean output of the dataset.
 
 **To do this you'll need to implement the `parse_row` method in `csvparser.py`, and this should be your only focus.**
   
