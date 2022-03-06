@@ -4,7 +4,6 @@ def read_row(file):
         return parse_row(next_line)
 
     return None
-    print(f'{row[0]} - {row[1]} - {row[2]}')
 
 def parse_row(next_line):
     newLine = next_line.replace(',', ' - ').replace('\n','')
